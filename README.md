@@ -1,2 +1,2 @@
 # AndroidGallery
-Android photo gallery app developed in Kotlin
+Android photo gallery app developed in Kotlin with Firebase
